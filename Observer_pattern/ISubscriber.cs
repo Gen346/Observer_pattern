@@ -1,6 +1,4 @@
-﻿
-
-namespace Observer_pattern
+﻿namespace Observer_pattern
 {
     public interface ISubscriber
     {
