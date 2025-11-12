@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace Observer_pattern
+﻿namespace Observer_pattern
 {
     internal class Newspaper : INewsPublisher
     {
